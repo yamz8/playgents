@@ -56,13 +56,13 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://sdk.vercel.ai/docs",
+  "homepage": "https://playgents/docs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vercel/ai.git"
+    "url": "git+https://github.com/yamz8/playgents.git"
   },
   "bugs": {
-    "url": "https://github.com/vercel/ai/issues"
+    "url": "https://github.com/yamz8/playgents/issues"
   },
   "keywords": [
     "ai"
