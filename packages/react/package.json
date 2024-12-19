@@ -29,8 +29,8 @@
     "CHANGELOG.md"
   ],
   "dependencies": {
-    "@playgents-sdk/provider-utils": "2.0.4",
-    "@playgents-sdk/ui-utils": "1.0.5",
+    "@ai-sdk/provider-utils": "2.0.4",
+    "@ai-sdk/ui-utils": "1.0.5",
     "swr": "^2.2.5",
     "throttleit": "2.1.0"
   },
