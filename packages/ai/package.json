@@ -1,7 +1,7 @@
 {
   "name": "playgents",
   "version": "4.0.19",
-  "description": "Playgents - The AI Toolkit for TypeScript and JavaScript",
+  "description": "Playgents - use cool ai exapmles in production",
   "license": "Apache-2.0",
   "sideEffects": false,
   "main": "./dist/index.js",
