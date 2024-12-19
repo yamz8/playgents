@@ -39,7 +39,7 @@
     "@testing-library/vue": "^8.1.0",
     "@types/node": "^18",
     "@vercel/ai-tsconfig": "workspace:*",
-    "@vitejs/plugin-vue": "5.2.0",
+    "@vitejs/plugin-vue": "5.2.1",
     "eslint": "8.57.1",
     "eslint-config-vercel-ai": "workspace:*",
     "jsdom": "^24.0.0",
