@@ -14,7 +14,7 @@
     "@ai-sdk/svelte": "1.0.6",
     "ai": "4.0.19",
     "openai": "4.52.6",
-    "zod": "^3.23.8"
+    "zod": "^3.24.1"
   },
   "devDependencies": {
     "@fontsource/fira-mono": "^5",
