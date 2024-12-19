@@ -1,7 +1,3 @@
-# AI SDK: React provider
+# @playgents-sdk/react
 
-[React](https://react.dev/) UI components for the [AI SDK](https://sdk.vercel.ai/docs):
-
-- [`useChat`](https://sdk.vercel.ai/docs/reference/ai-sdk-ui/use-chat) hook
-- [`useCompletion`](https://sdk.vercel.ai/docs/reference/ai-sdk-ui/use-completion) hook
-- [`useAssistant`](https://sdk.vercel.ai/docs/reference/ai-sdk-ui/use-assistant) hook
+A package part of the Playgents AI Toolkit.

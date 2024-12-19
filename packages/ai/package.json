@@ -1,7 +1,7 @@
 {
   "name": "playgents",
   "version": "4.0.19",
-  "description": "AI SDK by Vercel - The AI Toolkit for TypeScript and JavaScript",
+  "description": "Playgents - use cool ai exapmles in production",
   "license": "Apache-2.0",
   "sideEffects": false,
   "main": "./dist/index.js",
@@ -100,13 +100,13 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://sdk.vercel.ai/docs",
+  "homepage": "https://playgents/docs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vercel/ai.git"
+    "url": "git+https://github.com/yamz8/playgents.git"
   },
   "bugs": {
-    "url": "https://github.com/vercel/ai/issues"
+    "url": "https://github.com/yamz8/playgents/issues"
   },
   "keywords": [
     "ai",
