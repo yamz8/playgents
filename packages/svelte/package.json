@@ -28,7 +28,8 @@
   ],
   "dependencies": {
     "@ai-sdk/provider-utils": "2.0.4",
-    "@ai-sdk/ui-utils": "1.0.5"
+    "@ai-sdk/ui-utils": "1.0.5",
+    "sswr": "^2.1.0"
   },
   "devDependencies": {
     "@types/node": "^18",
