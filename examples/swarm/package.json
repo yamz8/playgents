@@ -12,7 +12,7 @@
     "@ai-sdk/swarm": "0.0.28",
     "ai": "4.0.19",
     "dotenv": "16.4.5",
-    "zod": "3.23.8",
+    "zod": "3.24.1",
     "zod-to-json-schema": "3.23.5",
     "@google/generative-ai": "0.21.0"
   },

@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "ai": "4.0.19",
-    "zod": "3.23.8"
+    "zod": "3.24.1"
   },
   "devDependencies": {
     "@types/node": "^18",
