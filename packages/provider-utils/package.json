@@ -1,5 +1,5 @@
 {
-  "name": "@ai-sdk/provider-utils",
+  "name": "@playgents-sdk/provider-utils",
   "version": "2.0.4",
   "license": "Apache-2.0",
   "sideEffects": false,
@@ -37,7 +37,7 @@
     }
   },
   "dependencies": {
-    "@ai-sdk/provider": "1.0.2",
+    "@playgents-sdk/provider": "1.0.2",
     "eventsource-parser": "^3.0.0",
     "nanoid": "^3.3.8",
     "secure-json-parse": "^2.7.0"

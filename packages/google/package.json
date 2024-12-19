@@ -1,5 +1,5 @@
 {
-  "name": "@ai-sdk/google",
+  "name": "@playgents-sdk/google",
   "version": "1.0.10",
   "license": "Apache-2.0",
   "sideEffects": false,
@@ -37,8 +37,8 @@
     }
   },
   "dependencies": {
-    "@ai-sdk/provider": "1.0.2",
-    "@ai-sdk/provider-utils": "2.0.4"
+    "@playgents-sdk/provider": "1.0.2",
+    "@playgents-sdk/provider-utils": "2.0.4"
   },
   "devDependencies": {
     "@types/node": "^18",

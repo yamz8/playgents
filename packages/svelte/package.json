@@ -1,5 +1,5 @@
 {
-  "name": "@ai-sdk/svelte",
+  "name": "@playgents-sdk/svelte",
   "version": "1.0.6",
   "license": "Apache-2.0",
   "sideEffects": false,
@@ -27,9 +27,8 @@
     "CHANGELOG.md"
   ],
   "dependencies": {
-    "@ai-sdk/provider-utils": "2.0.4",
-    "@ai-sdk/ui-utils": "1.0.5",
-    "sswr": "^2.1.0"
+    "@playgents-sdk/provider-utils": "2.0.4",
+    "@playgents-sdk/ui-utils": "1.0.5"
   },
   "devDependencies": {
     "@types/node": "^18",

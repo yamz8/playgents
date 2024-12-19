@@ -1,5 +1,5 @@
 {
-  "name": "@ai-sdk/togetherai",
+  "name": "@playgents-sdk/togetherai",
   "version": "0.0.7",
   "license": "Apache-2.0",
   "sideEffects": false,
@@ -30,9 +30,9 @@
     }
   },
   "dependencies": {
-    "@ai-sdk/openai-compatible": "0.0.6",
-    "@ai-sdk/provider": "1.0.2",
-    "@ai-sdk/provider-utils": "2.0.4"
+    "@playgents-sdk/openai-compatible": "0.0.6",
+    "@playgents-sdk/provider": "1.0.2",
+    "@playgents-sdk/provider-utils": "2.0.4"
   },
   "devDependencies": {
     "@types/node": "^18",
