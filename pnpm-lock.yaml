@@ -1630,6 +1630,9 @@ importers:
       '@ai-sdk/ui-utils':
         specifier: 1.0.5
         version: 1.0.5(zod@3.23.8)
+      sswr:
+        specifier: ^2.1.0
+        version: 2.1.0(svelte@4.2.18)
       svelte:
         specifier: ^3.0.0 || ^4.0.0 || ^5.0.0
         version: 4.2.18
@@ -26890,6 +26893,11 @@ snapshots:
   split2@4.2.0: {}
 
   sprintf-js@1.0.3: {}
+
+  sswr@2.1.0(svelte@4.2.18):
+    dependencies:
+      svelte: 4.2.18
+      swrev: 4.0.0
 
   sswr@2.1.0(svelte@5.2.9):
     dependencies:
