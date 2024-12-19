@@ -1,1 +1,3 @@
-# AI SDK - Provider Implementation Utilities
+# @playgents-sdk/provider-utils
+
+A package part of the Playgents AI Toolkit.

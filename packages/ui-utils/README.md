@@ -1,3 +1,3 @@
-# AI SDK - UI Framework Integration Implementation Utilities
+# @playgents-sdk/ui-utils
 
-Important: this is an internal API. Expect breaking changes.
+A package part of the Playgents AI Toolkit.
