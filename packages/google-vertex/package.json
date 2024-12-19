@@ -1,5 +1,5 @@
 {
-  "name": "@ai-sdk/google-vertex",
+  "name": "@playgents-sdk/google-vertex",
   "version": "2.0.8",
   "license": "Apache-2.0",
   "sideEffects": false,

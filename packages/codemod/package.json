@@ -1,5 +1,5 @@
 {
-    "name": "@ai-sdk/codemod",
+    "name": "@playgents-sdk/codemod",
     "version": "1.0.2",
     "license": "Apache-2.0",
     "sideEffects": false,

@@ -1,5 +1,5 @@
 {
-  "name": "@ai-sdk/azure",
+  "name": "@playgents-sdk/azure",
   "version": "1.0.10",
   "license": "Apache-2.0",
   "sideEffects": false,

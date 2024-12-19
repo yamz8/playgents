@@ -1,5 +1,5 @@
 {
-  "name": "@ai-sdk/provider",
+  "name": "@playgents-sdk/provider",
   "version": "1.0.2",
   "license": "Apache-2.0",
   "sideEffects": false,

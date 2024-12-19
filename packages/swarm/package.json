@@ -1,5 +1,5 @@
 {
-  "name": "@ai-sdk/swarm",
+  "name": "@playgents-sdk/swarm",
   "version": "0.0.28",
   "license": "Apache-2.0",
   "sideEffects": false,

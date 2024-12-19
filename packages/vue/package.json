@@ -1,5 +1,5 @@
 {
-  "name": "@ai-sdk/vue",
+  "name": "@playgents-sdk/vue",
   "version": "1.0.6",
   "license": "Apache-2.0",
   "sideEffects": false,

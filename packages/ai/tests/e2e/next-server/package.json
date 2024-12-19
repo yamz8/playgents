@@ -1,5 +1,5 @@
 {
-  "name": "ai-core-e2e-next-server",
+  "name": "playgents-core-e2e-next-server",
   "private": true,
   "scripts": {
     "dev": "next"
@@ -8,7 +8,7 @@
     "next": "canary",
     "react": "rc",
     "react-dom": "rc",
-    "ai": "workspace:*"
+    "playgents": "workspace:*"
   },
   "version": "0.0.0"
 }

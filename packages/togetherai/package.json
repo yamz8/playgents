@@ -1,5 +1,5 @@
 {
-  "name": "@ai-sdk/togetherai",
+  "name": "@playgents-sdk/togetherai",
   "version": "0.0.7",
   "license": "Apache-2.0",
   "sideEffects": false,
