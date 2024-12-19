@@ -1,5 +1,11 @@
 # @ai-sdk/openai
 
+## 1.0.9
+
+### Patch Changes
+
+- 0a8b7da: 18 fix package description
+
 ## 1.0.8
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @ai-sdk/openai-compatible
 
+## 0.0.7
+
+### Patch Changes
+
+- 0a8b7da: 18 fix package description
+
 ## 0.0.6
 
 ### Patch Changes

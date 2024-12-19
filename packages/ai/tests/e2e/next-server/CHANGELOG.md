@@ -4,6 +4,13 @@
 
 ### Patch Changes
 
+- Updated dependencies [0a8b7da]
+  - playgents@4.0.20
+
+## 0.0.1
+
+### Patch Changes
+
 - Updated dependencies [c3a6065]
   - ai@4.0.19
 
