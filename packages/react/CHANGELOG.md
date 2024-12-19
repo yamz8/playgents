@@ -1,5 +1,11 @@
 # @ai-sdk/react
 
+## 1.0.7
+
+### Patch Changes
+
+- 0a8b7da: 18 fix package description
+
 ## 1.0.6
 
 ### Patch Changes

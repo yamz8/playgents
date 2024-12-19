@@ -1,5 +1,11 @@
 # @ai-sdk/codemod
 
+## 1.0.3
+
+### Patch Changes
+
+- 0a8b7da: 18 fix package description
+
 ## 1.0.2
 
 ### Patch Changes

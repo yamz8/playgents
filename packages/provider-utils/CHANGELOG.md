@@ -1,5 +1,11 @@
 # @ai-sdk/provider-utils
 
+## 2.0.5
+
+### Patch Changes
+
+- 0a8b7da: 18 fix package description
+
 ## 2.0.4
 
 ### Patch Changes

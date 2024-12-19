@@ -1,5 +1,11 @@
 # @ai-sdk/google-vertex
 
+## 2.0.9
+
+### Patch Changes
+
+- 0a8b7da: 18 fix package description
+
 ## 2.0.8
 
 ### Patch Changes

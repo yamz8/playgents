@@ -1,5 +1,11 @@
 # @ai-sdk/google
 
+## 1.0.11
+
+### Patch Changes
+
+- 0a8b7da: 18 fix package description
+
 ## 1.0.10
 
 ### Patch Changes
