@@ -1396,12 +1396,12 @@ importers:
 
   packages/openai:
     dependencies:
-      '@playgents-sdk/provider':
+      '@ai-sdk/provider':
         specifier: 1.0.2
-        version: link:../provider
-      '@playgents-sdk/provider-utils':
+        version: 1.0.2
+      '@ai-sdk/provider-utils':
         specifier: 2.0.4
-        version: link:../provider-utils
+        version: 2.0.4(zod@3.23.8)
     devDependencies:
       '@types/node':
         specifier: ^18
