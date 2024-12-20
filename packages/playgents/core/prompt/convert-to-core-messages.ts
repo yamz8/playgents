@@ -1,4 +1,4 @@
-import { CoreMessage, ToolCallPart, ToolResultPart } from '../prompt';
+import { CoreMessage, ToolCallPart, ToolResultPart } from '.';
 import { CoreTool } from '../tool/tool';
 import { attachmentsToParts } from './attachments-to-parts';
 import { MessageConversionError } from './message-conversion-error';

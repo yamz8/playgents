@@ -6,7 +6,7 @@ import {
   LanguageModelV1TextPart,
 } from '@ai-sdk/provider';
 import { download } from '../../util/download';
-import { CoreMessage } from '../prompt/message';
+import { CoreMessage } from './message';
 import { detectImageMimeType } from '../util/detect-image-mimetype';
 import { FilePart, ImagePart, TextPart } from './content-part';
 import {
