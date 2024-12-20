@@ -1,5 +1,6 @@
 packages:
   - 'apps/clones/ai-sdk/*'
+  - 'apps/clones/langchain/*'
   - 'packages/*'
   - 'tools/*'
   - 'examples/*'
