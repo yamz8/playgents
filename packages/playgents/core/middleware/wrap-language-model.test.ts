@@ -1,5 +1,5 @@
 import { LanguageModelV1CallOptions } from '@ai-sdk/provider';
-import { experimental_wrapLanguageModel } from '../middleware/wrap-language-model';
+import { experimental_wrapLanguageModel } from './wrap-language-model';
 import { MockLanguageModelV1 } from '../test/mock-language-model-v1';
 
 it('should pass through model properties', () => {
