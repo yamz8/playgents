@@ -10,3 +10,4 @@ githubApp:
 projectIgnorePaths:
   - '.github/'
   - 'examples/'
+  - 'apps/clones/**/*'

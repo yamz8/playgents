@@ -6,3 +6,4 @@ dist
 .solid
 _nuxt
 __testfixtures__
+apps/clones/**/*
